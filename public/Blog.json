@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "images": "https://i.ibb.co/QKL7rHM/elopement-wedding-1.jpg",
+      "eventName": "Wedding",
+      "title": "A Dreamy Beach Wedding",
+      "shortDetails": "Experience the romance of a beach wedding like never before! Join us on this incredible journey through the shores of Bali, where love takes center stage amidst the soft golden sands and the soothing sound of waves. Don't miss this enchanting celebration of love!",
+      "longDetails": "Indulge in the magic of a dreamy beach wedding that transcends the ordinary. Picture yourself exchanging vows under the warm, golden rays of the setting sun, with the gentle lullaby of the ocean as your soundtrack. As day turns into night, the beachfront reception comes alive with laughter, dancing, and the aroma of delicious cuisine. Join us as we take you through every detail of this unforgettable wedding, from the heartwarming ceremony to the lively festivities that followed. Get ready to be inspired to create your very own beach-side nuptials filled with love, laughter, and cherished memories."
+    },
+    {
+      "id": 2,
+      "images": "https://i.ibb.co/RgPD34B/husband-gifts-1669758755-1.png",
+      "eventName": "Birthday Ceremony",
+      "title": "Turning 30 in Style",
+      "shortDetails": "Join us as we celebrate the journey to the big 3-0 in style! Uncover unique and exciting party ideas that will make this milestone birthday unforgettable. Let's make 30 the best year yet!",
+      "longDetails": "Turning 30 is a monumental occasion, and it's time to celebrate in a way that reflects its significance. In this blog, we'll unveil creative and memorable ways to mark this milestone birthday. From themed extravaganzas that transport you to other worlds to thrilling bucket-list adventures that leave you breathless, get ready to embark on a journey of a lifetime as you embrace the adventure of entering your 30s. We'll share personal stories, expert tips, and a wide range of party ideas that will make your 30th birthday an unforgettable chapter in your life's story. Join us in celebrating the excitement, wisdom, and possibilities that come with turning 30!"
+    },
+    {
+      "id": 3,
+      "images": "https://i.ibb.co/YhQz6Vs/best-retirement-party-ideas.jpg" ,
+      "eventName": "Retirement Party",
+      "title": "Saying Farewell to a Legend",
+      "shortDetails": "Join us as we honor a retiring legend in our workplace. Discover creative ideas for a memorable send-off that celebrates a remarkable career and the beginning of a new adventure.",
+      "longDetails": "Saying farewell to a colleague who has been a legend in your workplace is a special occasion that deserves a memorable send-off. In this blog, we'll share heartwarming stories and creative ideas to celebrate their achievements and send them off into the world of retirement with joy and appreciation. From surprise parties to personalized gifts and heartfelt speeches, we'll guide you through the planning process to make sure your retiring colleague feels valued and cherished as they embark on this new chapter of their life. Join us in bidding farewell to a legend!"
+    },
+    {
+      "id": 4,
+      "images": "https://i.ibb.co/Gtd0QnR/b.jpg",
+      "eventName": "Anniversary",
+      "title": "50 Years of Love and Laughter",
+      "shortDetails": "Celebrate a remarkable love story that has spanned five decades. Join us in honoring a golden wedding anniversary filled with love, commitment, and unforgettable moments.",
+      "longDetails": "Join us in celebrating a remarkable love story that has spanned five decades. In this blog, we'll take you through the journey of a couple who has reached their golden wedding anniversary. From their early days of courtship to the challenges they've overcome and the joyous moments they've shared, this heartwarming tale will inspire you to cherish your own love story. We'll share their secrets to a lasting marriage, their favorite memories, and the incredible adventures they've experienced together. Get ready to be moved by a story of love, commitment, and a lifetime of laughter."
+    }
+  ]

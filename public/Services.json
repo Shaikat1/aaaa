@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "eventName": "Wedding",
+    "image": "https://i.ibb.co/3WZ1Q0T/img-1.jpg",
+    "price": 99990,
+    "description": "Celebrate love at our beautiful wedding ceremony. Experience a magical day filled with romance, vows, and joy. Let us create unforgettable memories on your special day.",
+    "details": "A wedding is a once-in-a-lifetime celebration of love, and our wedding packages are designed to make it truly magical. From the moment you walk down the aisle to the heartfelt vows, our expert team ensures every detail is perfect. Enjoy a stunning venue, delectable cuisine, and personalized service. It's a day you'll cherish forever."
+  },
+  {
+    "id": 2,
+    "eventName": "Birthday Party",
+    "image": "https://i.ibb.co/8drVyYx/img-2.jpg",
+    "price": 29990,
+    "description": "It's time to party! Join us for a fantastic birthday celebration. Cake, balloons, games, and more await you. Make a wish and blow out the candles with friends and family.",
+    "details": "Birthday parties are all about fun and laughter, and we specialize in creating unforgettable moments. Whether you're celebrating a milestone or a kid's birthday, we have the perfect package. Enjoy themed decorations, delicious cake, and entertainment that will delight guests of all ages."
+  },
+  {
+    "id": 3,
+    "eventName": "Anniversary",
+    "image": "https://i.ibb.co/35XD27b/img-3.jpg",
+    "price": 31990,
+    "description": "Rekindle your love at our anniversary gathering. Toast to the years you've spent together, enjoy a romantic dinner, and create cherished memories with your partner.",
+    "details": "Anniversaries are a time to celebrate enduring love, and our anniversary events are designed to capture the essence of romance. Enjoy a candlelit dinner, fine wine, and live music in a charming setting. It's the perfect way to commemorate your journey together."
+  },
+  {
+    "id": 4,
+    "eventName": "Engagement Party",
+    "image": "https://i.ibb.co/N2L8dP8/img-4.jpg",
+    "price": 63990,
+    "description": "Share your joy and commitment with loved ones at our engagement party. A night of celebration, dancing, and well-wishes as you embark on this exciting journey together.",
+    "details": "Engagement parties mark the beginning of a beautiful journey, and we ensure it's celebrated in style. Dance the night away, enjoy gourmet cuisine, and share your joy with family and friends. It's a night of love and togetherness."
+  },
+  {
+    "id": 5,
+    "eventName": "Retirement Party",
+    "image": "https://i.ibb.co/2yQTbFL/img-5.jpg",
+    "price": 19990,
+    "description": "It's time to bid farewell to a long and successful career. Join us for a retirement party to honor the retiree's achievements and embark on a new chapter of life.",
+    "details": "Retirement is a significant milestone, and our retirement parties are designed to celebrate a successful career and the beginning of a new adventure. Toast to achievements, share stories, and look forward to the future with joy and excitement."
+  },
+  {
+    "id": 6,
+    "eventName": "Baby Shower",
+    "image": "https://i.ibb.co/vw43f02/img-6.jpg",
+    "price": 25990,
+    "description": "Welcome a new life into the world at our baby shower. Play games, enjoy baby-themed treats, and shower the parents-to-be with love and gifts. A bundle of joy is on the way!",
+    "details": "Baby showers are a joyful occasion to welcome a new addition to the family. Our baby shower events are filled with games, delicious treats, and heartfelt gifts. It's a time to celebrate the miracle of life and the parents-to-be."
+  }
+]
